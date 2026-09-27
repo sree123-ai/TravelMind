@@ -1,0 +1,8 @@
+{
+  "name": "TravelMind AI",
+  "description": "Personalized AI Tourism & Travel Planner with location-accurate destination recommendations, interactive itineraries, weather alerts, food guides, and packing assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
